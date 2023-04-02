@@ -28,8 +28,8 @@
 <img height="40em" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="40em" align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-D2691E?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/main/lofi%20sad%20gif.gif">
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jefersonfreitas2525/count.svg" /></p>
+<img src="https://github.com/JefersonFreitasdaSilva/JefersonFreitasdaSilva/blob/main/lofi%20sad%20gif.gif">
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefersonFreitasdaSilva/count.svg" /></p>
 
 
 	
