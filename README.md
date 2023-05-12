@@ -27,8 +27,8 @@
 <img height="40em" align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="40em" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="40em" align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-D2691E?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img height="40em" align="center" alt="ORACLESQL" src="https://img.shields.io/badge/OracleSQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
+<img height="40em" align="center" alt="ORACLESQL" src="https://img.shields.io/badge/OracleSQL-FF0000?style=for-thebadge&logo=oracle&logoColor=white"/>
+<img height="40em" align="center" alt="SQLServer" src="https://img.shields.io/badge/SQL%20Server-666666?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://github.com/JefersonFreitasdaSilva/JefersonFreitasdaSilva/blob/main/lofi%20sad%20gif.gif">
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefersonFreitasdaSilva/count.svg" /></p>
 
