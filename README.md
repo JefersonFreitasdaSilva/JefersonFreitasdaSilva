@@ -12,8 +12,6 @@
 <div style="display: inline_block">
 
   
-
-<img height="40em" align="center" alt="android" src="https://img.shields.io/badge/Android-239120?style=for-the-badge&logo=android&logoColor=white"/>
 <img height="40em" align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img height="40em" align="center" alt="Mainframe" src="https://img.shields.io/badge/Mainframe-4169E1?style=for-the-badge&logo=Mainframe&logoColor=white"/></br>
 <img height="40em" align="center" alt="R" src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white"/>
@@ -22,13 +20,10 @@
 <img height="40em" align="center" alt="Cobol" src="https://img.shields.io/badge/Cobol-4169E1?style=for-the-badge&logo=Cobol&logoColor=white"/>
 <img height="40em" align="center" alt="java" src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=black"/>
 <img height="40em" align="center" alt="C#" src="https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img height="40em" align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img height="40em" align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></br>
+<img height="40em" align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></br>
 <img height="40em" align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="40em" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="40em" align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-D2691E?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img height="40em" align="center" alt="ORACLESQL" src="https://img.shields.io/badge/OracleSQL-FF0000?style=for-thebadge&logo=oracle&logoColor=white"/>
-<img height="40em" align="center" alt="SQLServer" src="https://img.shields.io/badge/SQL%20Server-666666?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://github.com/JefersonFreitasdaSilva/JefersonFreitasdaSilva/blob/main/lofi%20sad%20gif.gif">
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefersonFreitasdaSilva/count.svg" /></p>
 
