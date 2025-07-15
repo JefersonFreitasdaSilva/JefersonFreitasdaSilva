@@ -9,6 +9,3 @@
 <div style="display: inline_block">
 <img src="https://github.com/JefersonFreitasdaSilva/JefersonFreitasdaSilva/blob/main/lofi%20sad%20gif.gif">
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JefersonFreitasdaSilva/count.svg" /></p>
-
-	
-
